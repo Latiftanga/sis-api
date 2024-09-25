@@ -1,2 +1,4 @@
 Faker>=26.0.0,<26.1
 flake8>=7.0.0,<7.1
+django-tailwind>=3.8.0,<3.9
+django-tailwind[reload]>3.8.0,<3.9
